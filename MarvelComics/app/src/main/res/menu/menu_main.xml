@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:orderInCategory="0"
+        android:showAsAction="always"
+        android:title="@string/menu_search" />
+
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh_white_24dp"
+        android:orderInCategory="10"
+        android:showAsAction="always"
+        android:title="@string/menu_refresh" />
+
+    <item
+        android:id="@+id/action_profile"
+        android:orderInCategory="20"
+        android:showAsAction="never"
+        android:title="@string/menu_profile" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="30"
+        android:showAsAction="never"
+        android:title="@string/menu_logout" />
+
+</menu>

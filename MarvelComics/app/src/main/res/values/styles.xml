@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:actionBarStyle">@style/AppActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/AppOverFlow</item>
+    </style>
+
+    <style name="AppActionBar" parent="Widget.AppCompat.Light.ActionBar.TabText">
+        <item name="android:titleTextStyle">@style/AppTitleBarTextColor</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:icon">@android:color/transparent</item>
+    </style>
+
+    <style name="AppTitleBarTextColor" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/textIconsColor</item>
+    </style>
+
+    <style name="AppOverFlow">
+        <item name="android:src">@drawable/ic_more_vert_white_24dp</item>
+    </style>
+
+</resources>

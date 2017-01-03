@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="app_description">Download of comic books</string>
+    <string name="facebook_app_id">facebook_app_id_value</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_logout">Logout</string>
+</resources>

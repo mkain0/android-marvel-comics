@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007202476819",
+    "project_id": "android-marvelcomics"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007202476819:android:5735cfe823a20485",
+        "android_client_info": {
+          "package_name": "com.mkain.marvelcomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007202476819-de0no90klju4c7kav6o6nvrlaqapt7rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mkain.marvelcomics",
+            "certificate_hash": "CE8463ACDC17222B869319D70BF223BB0DC68BDA"
+          }
+        },
+        {
+          "client_id": "1007202476819-2pv1aak4e1tjupjlmbmte2crg75oct6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3F9g8S2PAH9veeh0ic5359Jy0YKtoeC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
